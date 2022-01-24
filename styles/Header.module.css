@@ -1,0 +1,38 @@
+.headerWrapper {
+    background-color: #e4e4e4;
+    opacity: 0.98;
+    width: 100%;
+    height: max-content;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    box-shadow: 0 0 20px rgba(245, 76, 76, 1);
+
+}
+
+.img {
+    width: 50px;
+    height: 60px;
+}
+
+.info {
+    color: #e4606e;
+    text-align: center;
+    margin: 25px;
+
+}
+
+.login {
+    color: #e4606e;
+    text-align: center;
+    margin:  15px 11% 0 0;
+
+}
+@media (max-width: 930px) {
+    .login {
+        color: #e4606e;
+        text-align: center;
+        margin:  15px 20% 0 0;
+
+    }
+}

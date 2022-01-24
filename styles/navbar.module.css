@@ -1,0 +1,67 @@
+.navWrapper {
+    width: 10%;
+    min-width: min-content;
+    height: 4vh;
+    background: rgba(245, 76, 76, 0.9) ;
+    position: fixed;
+    z-index: 1;
+  /*  margin: 15px 5px 0 88%;*/
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    opacity: 0.5;
+    transition: 0.5s;
+    min-height: 37px;
+}
+
+.navWrapper:hover {
+    box-shadow: 0 0 20px rgba(245, 76, 76, 0.5);
+    opacity: 1;
+    height: 25vh;
+    background: rgba(47, 47, 49, 1);
+}
+
+.input {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 0;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: min-content;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+    color: rgba(0, 0, 0, 1);
+    position:sticky;
+    top: 0.5px;
+}
+
+.painter {
+    margin-top: 5px;
+    background-color: rgba(47, 47, 49, 0.5);
+    color: #fafafa;
+    width: 100%;
+    height: min-content;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.painter:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    height: 3vh;
+    box-sizing: border-box;
+}
+
+.scrollWrapper {
+    min-height: 5px;
+    height: 100%;
+    overflow-y: scroll;
+    border-radius: 0;
+
+}
+
+.scrollWrapper::-webkit-scrollbar {
+    width: 0;
+}

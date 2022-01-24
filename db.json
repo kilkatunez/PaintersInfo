@@ -1,0 +1,839 @@
+{
+  "painters": [
+    {
+      "id": 1,
+      "name": "Caravaggio",
+      "profilePhotoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/220px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+      "info": "Michelangelo Merisi (Michele Angelo Merigi or Amerighi) da Caravaggio, known as Caravaggio (/ˌkærəˈvædʒioʊ/, US: /-ˈvɑːdʒ(i)oʊ/, Italian pronunciation: [mikeˈlandʒelo meˈriːzi da (k)karaˈvaddʒo]; 29 September 1571[2] – 18 July 1610), was an Italian painter active in Rome for most of his artistic life. During the final four years of his life he moved between Naples, Malta, and Sicily until his death. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.[3][4][5]\n\nCaravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, transfixing subjects in bright shafts of light and darkening shadows. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture, and death. He worked rapidly, with live models, preferring to forgo drawings and work directly onto the canvas. His inspiring effect on the new Baroque style that emerged from Mannerism was profound. His influence can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, and Rembrandt. Artists heavily under his influence were called the \"Caravaggisti\" (or \"Caravagesques\"), as well as tenebrists or tenebrosi (\"shadowists\").\n\nCaravaggio trained as a painter in Milan before moving to Rome when he was in his twenties. He developed a considerable name as an artist, and as a violent, touchy and provocative man. A brawl led to a death sentence for murder and forced him to flee to Naples. There he again established himself as one of the most prominent Italian painters of his generation. He traveled in 1607 to Malta and on to Sicily, and pursued a papal pardon for his sentence. In 1609 he returned to Naples, where he was involved in a violent clash; his face was disfigured and rumours of his death circulated. Questions about his mental state arose from his erratic and bizarre behavior. He died in 1610 under uncertain circumstances while on his way from Naples to Rome. Reports stated that he died of a fever, but suggestions have been made that he was murdered or that he died of lead poisoning.\n\nCaravaggio's innovations inspired Baroque painting, but the latter incorporated the drama of his chiaroscuro without the psychological realism. The style evolved and fashions changed, and Caravaggio fell out of favour. In the 20th century interest in his work revived, and his importance to the development of Western art was reevaluated. The 20th-century art historian André Berne-Joffroy [fr] stated: \"What begins in the work of Caravaggio is, quite simply, modern painting.\""
+    },
+    {
+      "id": 2,
+      "name": "Bosch",
+      "profilePhotoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/220px-Jheronimus_Bosch_%28cropped%29.jpg",
+      "info": "Hieronymus Bosch was a Dutch/Netherlandish painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work, generally oil on oak wood, mainly contains fantastic illustrations of religious concepts and narratives.[6] Within his lifetime his work was collected in the Netherlands, Austria, and Spain, and widely copied, especially his macabre and nightmarish depictions of hell.\n\nLittle is known of Bosch's life, though there are some records. He spent most of it in the town of 's-Hertogenbosch, where he was born in his grandfather's house. The roots of his forefathers are in Nijmegen and Aachen (which is visible in his surname: Van Aken). His pessimistic fantastical style cast a wide influence on northern art of the 16th century, with Pieter Bruegel the Elder being his best-known follower. Today, Bosch is seen as a hugely individualistic painter with deep insight into humanity's desires and deepest fears. Attribution has been especially difficult; today only about 25 paintings are confidently given to his hand[7] along with eight drawings. About another half-dozen paintings are confidently attributed to his workshop. His most acclaimed works consist of a few triptych altarpieces, including The Garden of Earthly Delights. Hieronymus Bosch was a Dutch/Netherlandish painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work, generally oil on oak wood, mainly contains fantastic illustrations of religious concepts and narratives.[6] Within his lifetime his work was collected in the Netherlands, Austria, and Spain, and widely copied, especially his macabre and nightmarish depictions of hell.\n\nLittle is known of Bosch's life, though there are some records. He spent most of it in the town of 's-Hertogenbosch, where he was born in his grandfather's house. The roots of his forefathers are in Nijmegen and Aachen (which is visible in his surname: Van Aken). His pessimistic fantastical style cast a wide influence on northern art of the 16th century, with Pieter Bruegel the Elder being his best-known follower. Today, Bosch is seen as a hugely individualistic painter with deep insight into humanity's desires and deepest fears. Attribution has been especially difficult; today only about 25 paintings are confidently given to his hand[7] along with eight drawings. About another half-dozen paintings are confidently attributed to his workshop. His most acclaimed works consist of a few triptych altarpieces, including The Garden of Earthly Delights."
+    },
+    {
+      "id": 3,
+      "name": "Michelangelo",
+      "profilePhotoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/220px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+      "info": "Michelangelo di Lodovico Buonarroti Simoni (Italian: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni]; 6 March 1475 – 18 February 1564), known simply as Michelangelo (English: /ˌmaɪkəlˈændʒəloʊ, ˌmɪk-/), was an Italian sculptor, painter, architect and poet of the High Renaissance. Born in the Republic of Florence, his work had a major influence on the development of Western art, particularly in relation to the Renaissance notions of humanism and naturalism. He is often considered a contender for the title of the archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci. Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century and several scholars have described Michelangelo as the most accomplished artist of his era.\n\nHe sculpted two of his best-known works, the Pietà and David, before the age of thirty. Despite holding a low opinion of painting, he also created two of the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist architecture. At the age of 74, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter's Basilica. He transformed the plan so that the western end was finished to his design, as was the dome, with some modification, after his death.\n\nMichelangelo was the first Western artist whose biography was published while he was alive. In fact, two biographies were published during his lifetime. One of them, by Giorgio Vasari, proposed that Michelangelo's work transcended that of any artist living or dead, and was \"supreme in not one art alone but in all three.\"\n\nIn his lifetime, Michelangelo was often called Il Divino (\"the divine one\"). His contemporaries often admired his terribilità—his ability to instill a sense of awe in viewers of his art. Attempts by subsequent artists to imitate Michelangelo's impassioned, highly personal style contributed to the rise Mannerism, a short-lived style and period in Western art following the High Renaissance."
+
+    },
+    {
+      "id": 4,
+      "name": "Leonardo da Vinci",
+      "profilePhotoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/220px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+      "info": "Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor and architect. While his fame initially rested on his achievements as a painter, he also became known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and paleontology. Leonardo's genius epitomized the Renaissance humanist ideal, and his collective works compose a contribution to later generations of artists matched only by that of his younger contemporary, Michelangelo.\n\nBorn out of wedlock to a successful notary and a lower-class woman in, or near, Vinci, he was educated in Florence by the Italian painter and sculptor Andrea del Verrocchio. He began his career in the city, but then spent much time in the service of Ludovico Sforza in Milan. Later, he worked in Florence and Milan again, as well as briefly in Rome, all while attracting a large following of imitators and students. Upon the invitation of Francis I, he spent his last three years in France, where he died in 1519. Since his death, there has not been a time where his achievements, diverse interests, personal life, and empirical thinking have failed to incite interest and admiration, making him a frequent namesake and subject in culture.\n\nLeonardo is among the greatest painters in the history of art and is often credited as the founder of the High Renaissance. Despite having many lost works and less than 25 attributed major works—including numerous unfinished works—he created some of the most influential paintings in Western art. His magnum opus, the Mona Lisa, is his best known work and often regarded as the world's most famous painting. The Last Supper is the most reproduced religious painting of all time and his Vitruvian Man drawing is also regarded as a cultural icon. In 2017, Salvator Mundi, attributed in whole or part to Leonardo, was sold at auction for US$450.3 million, setting a new record for the most expensive painting ever sold at public auction.\n\nRevered for his technological ingenuity, he conceptualized flying machines, a type of armored fighting vehicle, concentrated solar power, an adding machine, and the double hull. Relatively few of his designs were constructed or even feasible during his lifetime, as the modern scientific approaches to metallurgy and engineering were only in their infancy during the Renaissance. Some of his smaller inventions, however, entered the world of manufacturing unheralded, such as an automated bobbin winder and a machine for testing the tensile strength of wire. He made substantial discoveries in anatomy, civil engineering, hydrodynamics, geology, optics, and tribology, but he did not publish his findings and they had little to no direct influence on subsequent science."
+    },
+    {
+      "id": 5,
+      "name": "Titian",
+      "profilePhotoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tizian_090.jpg/800px-Tizian_090.jpg",
+      "info": "Tiziano Vecelli or Vecellio (pronounced [titˈtsjaːno veˈtʃɛlljo]; c.1488/90[1] – 27 August 1576), known in English as Titian (/ˈtɪʃən/ TISH-ən), was an Italian (Venetian) painter during the Renaissance, considered the most important member of the 16th-century Venetian school. He was born in Pieve di Cadore, near Belluno. During his lifetime he was often called da Cadore, 'from Cadore', taken from his native region.\n\nRecognized by his contemporaries as \"The Sun Amidst Small Stars\" (recalling the final line of Dante's Paradiso), Titian was one of the most versatile of Italian painters, equally adept with portraits, landscape backgrounds, and mythological and religious subjects. His painting methods, particularly in the application and use of colour, exercised a profound influence not only on painters of the late Italian Renaissance, but on future generations of Western art.\n\nHis career was successful from the start, and he became sought after by patrons, initially from Venice and its possessions, then joined by the north Italian princes, and finally the Habsburgs and papacy. Along with Giorgione, he is considered a founder of the Venetian School of Italian Renaissance painting.\n\nDuring the course of his long life, Titian's artistic manner changed drastically, but he retained a lifelong interest in colour. Although his mature works may not contain the vivid, luminous tints of his early pieces, their loose brushwork and subtlety of tone were without precedent in the history of Western painting"
+
+    },
+    {
+      "id": 6,
+      "name": "567",
+      "profilePhotoURL": "https://cdn.fishki.net/upload/post/201406/22/1279410/20142106223941.jpg",
+      "info": ""
+
+    },
+    {
+      "id": 7,
+      "name": "678",
+      "profilePhotoURL": "https://cdn.fishki.net/upload/post/201406/22/1279410/20142106223941.jpg",
+      "info": ""
+
+    },
+    {
+      "id": 8,
+      "name": "789",
+      "profilePhotoURL": "https://cdn.fishki.net/upload/post/201406/22/1279410/20142106223941.jpg",
+      "info": ""
+
+    }
+  ],
+  "fishText": [
+    {
+      "fishText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa  qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+
+  "paintings": [
+    {
+      "painterId": "Caravaggio",
+      "id": 1,
+      "name": "Basket of Fruit",
+      "year":"c. 1596",
+      "dimensions": "46 × 64 cm",
+      "city": "Milan, Italy",
+      "gallery": "Biblioteca Ambrosiana",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg/800px-Canestra_di_frutta_%28Caravaggio%29.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 2,
+      "year":"c. 1595",
+      "dimensions": "87.9 × 115.9 cm",
+      "city": "New York City, New York",
+      "gallery": "Metropolitan Museum of Art",
+      "name": "The Musicians",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Caravaggio_-_I_Musici.jpg/800px-Caravaggio_-_I_Musici.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 3,
+      "year":"c. 1595",
+      "dimensions": "93.9 × 129.5 cm",
+      "city": "Hartford, Connecticut",
+      "gallery": "Wadsworth Atheneum",
+      "name": "Saint Francis of Assisi in Ecstasy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Saint_Francis_of_Assisi_in_Ecstasy-Caravaggio_%28c.1595%29.jpg/1280px-Saint_Francis_of_Assisi_in_Ecstasy-Caravaggio_%28c.1595%29.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 4,
+      "year":"c. 1600",
+      "dimensions": "323 × 343 cm",
+      "city": "Rome, Italy",
+      "gallery": "Contarelli Chapel",
+      "name": "The Calling of Saint Matthew",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Caravaggio_-_La_vocazione_di_San_Matteo.jpg/1024px-Caravaggio_-_La_vocazione_di_San_Matteo.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 5,
+      "year":"1607",
+      "dimensions": "",
+      "city": "Toulouse, France",
+      "gallery": "Private Collection",
+      "name": "Judith Beheading Holofernes",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Caravaggio_-_Judith_and_Holophernes_Toulouse_-_High_Definition.jpg/800px-Caravaggio_-_Judith_and_Holophernes_Toulouse_-_High_Definition.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 6,
+      "year":"c. 1592–1593",
+      "dimensions": "75.5 × 64.4 cm",
+      "city": "Florence, Italy",
+      "gallery": "Fondazione Roberto Longhi",
+      "name": "Boy Peeling Fruit",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/CARAVAGGIO%2C_A_boy_peeling_fruit_%281593%29.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 7,
+      "year":"c. 1593",
+      "dimensions": "67 × 53 cm",
+      "city": "Rome, Italy",
+      "gallery": "Borghese",
+      "name": "Young Sick Bacchus",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Young_Sick_Bacchus-Caravaggio_%281593%29.jpg/800px-Young_Sick_Bacchus-Caravaggio_%281593%29.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 8,
+      "year":"c. 1593",
+      "dimensions": "70 × 67 cm",
+      "city": "Rome, Italy",
+      "gallery": "Borghese",
+      "name": "Boy with a Basket of Fruit",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Boy_with_a_Basket_of_Fruit_by_Caravaggio.jpg/800px-Boy_with_a_Basket_of_Fruit_by_Caravaggio.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 9,
+      "year":"c. 1594",
+      "dimensions": "115 × 150 cm",
+      "city": "Rome, Italy",
+      "gallery": "Capitoline Museums",
+      "name": "Fortune Teller",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Caravaggio_%28Michelangelo_Merisi%29_-_Good_Luck_-_Google_Art_Project.jpg/800px-Caravaggio_%28Michelangelo_Merisi%29_-_Good_Luck_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 10,
+      "year":"c. 1594",
+      "dimensions": "94.2 × 131.2 cm",
+      "city": "Fort Worth, Texas",
+      "gallery": "Kimbell Art Museum",
+      "name": "Cardsharps",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Caravaggio_%28Michelangelo_Merisi%29_-_The_Cardsharps_-_Google_Art_Project.jpg/800px-Caravaggio_%28Michelangelo_Merisi%29_-_The_Cardsharps_-_Google_Art_Project.jpg"
+    },{
+      "painterId": "Caravaggio",
+      "id": 11,
+      "year":"c. 1596",
+      "dimensions": "66 × 49.5 cm",
+      "city": "London, England",
+      "gallery": "National Gallery",
+      "name": "Boy Bitten by a Lizard",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg/800px-Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 12,
+      "year":"c. 1596",
+      "dimensions": "94 × 119 cm",
+      "city": "St. Petersburg, Russia",
+      "gallery": "Hermitage Museum",
+      "name": "Lute Player",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Michelangelo_Caravaggio_020.jpg/800px-Michelangelo_Caravaggio_020.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 13,
+      "year":"c. 1596",
+      "dimensions": "95 × 85 cm",
+      "city": "Florence, Italy",
+      "gallery": "Uffizi",
+      "name": "Bacchus",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg/800px-Caravaggio_-_Bacco_adolescente_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 14,
+      "year":"c. 1597",
+      "dimensions": "122.5 × 98.5 cm",
+      "city": "Rome, Italy",
+      "gallery": "Doria Pamphilj Gallery",
+      "name": "Penitent Magdalene",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Michelangelo_Caravaggio_063.jpg/800px-Michelangelo_Caravaggio_063.jpg"
+    },
+    {
+      "painterId": "Caravaggio",
+      "id": 15,
+      "year":"c. 1597",
+      "dimensions": "133.5 × 166.5 cm",
+      "city": "Rome, Italy",
+      "gallery": "Doria Pamphilj Gallery",
+      "name": "Rest on the Flight into Egypt",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Michelangelo_Caravaggio_025.jpg/800px-Michelangelo_Caravaggio_025.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 16,
+      "year":"c. 1597",
+      "dimensions":"60 × 55 cm",
+      "city":"Florence, Italy",
+      "gallery":"Uffizi",
+      "name":"Medusa",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg/1024px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 17,
+      "year":"c. 1597",
+      "dimensions":"66 × 53 cm",
+      "city":"Berlin, Germany",
+      "gallery":"Kaiser Friedrich Museum",
+      "name":"Portrait of a Courtesan",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Portrait_of_a_Courtesan_by_Caravaggio.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 18,
+      "year":"c. 1597",
+      "dimensions":"300 × 180 cm",
+      "city":"Rome, Italy",
+      "gallery":"Casino di Villa Boncompagni Ludovisi",
+      "name":"Jupiter, Neptune and Pluto",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jupiter%2C_Neptune_and_Pluto-Caravaggio_%28c.1597-1600%29.jpg/800px-Jupiter%2C_Neptune_and_Pluto-Caravaggio_%28c.1597-1600%29.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 19,
+      "year":"c. 1598",
+      "dimensions":"173 × 133 cm",
+      "city":"Madrid, Spain",
+      "gallery":"Thyssen-Bornemisza Museum",
+      "name":"Saint Catherine of Alexandria",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Caravaggio_-_Saint_Catherine_of_Alexandria_%28post-restoration_image%29.jpg/800px-Caravaggio_-_Saint_Catherine_of_Alexandria_%28post-restoration_image%29.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 20,
+      "year":"c. 1598",
+      "dimensions":"John the Baptist",
+      "city":"169 × 112 cm",
+      "gallery":"Toledo, Spain",
+      "name":"John the Baptist",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/4/48/Caravaggio-Baptist-Toledo.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 21,
+      "year":"c. 1598",
+      "dimensions":"97.8 × 132.7 cm",
+      "city":"Detroit, Michigan",
+      "gallery":"Detroit Institute of Arts",
+      "name":"Martha and Mary Magdalene",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Michelangelo_Merisi_da_Caravaggio_-_Martha_and_Mary_Magdalene_-_WGA04101.jpg/1024px-Michelangelo_Merisi_da_Caravaggio_-_Martha_and_Mary_Magdalene_-_WGA04101.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 22,
+      "year":"1601",
+      "dimensions":"105 × 184 cm",
+      "city":"Rome, Italy",
+      "gallery":"Borghese",
+      "name":"Still Life with Flowers and Fruit",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flowersandfruit.jpg/1024px-Flowersandfruit.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 23,
+      "year":"1602",
+      "dimensions":"156 × 113 cm",
+      "city":"Berlin, Germany",
+      "gallery":"Gemäldegalerie,",
+      "name":"Amor Victorious",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Caravaggio_-_Cupid_as_Victor_-_Google_Art_Project.jpg/800px-Caravaggio_-_Cupid_as_Victor_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Caravaggio",
+      "id": 24,
+      "year":"1602",
+      "dimensions":"292 × 186 cm",
+      "city":"Rome, Italy",
+      "gallery":"Contarelli Chapel",
+      "name":"Inspiration of Saint Matthew",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Inspiration_of_Saint_Matthew_by_Caravaggio.jpg"
+    },
+
+    {
+      "painterId": "Bosch",
+      "id": 26,
+      "year":"",
+      "dimensions": "140 × 196 mm",
+      "city": "Rotterdam",
+      "gallery": "Museum Boijmans Van Beuningen.",
+      "name": "The Owl's Nest",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Owl%27s_Nest_Bosch.jpg/260px-The_Owl%27s_Nest_Bosch.jpg"
+    },
+    {
+      "painterId": "Bosch",
+      "id": 27,
+      "year":"c.1495–1505",
+      "dimensions": "104 × 119 cm",
+      "city": "Venice, Italy",
+      "gallery": "Palazzo Ducale",
+      "name": "The Martyrdom of St. Julia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BoschTheCrucifixionOfStJulia.jpg/280px-BoschTheCrucifixionOfStJulia.jpg"
+    },
+    {
+      "painterId": "Bosch",
+      "id": 28,
+      "year":"c.1495–1505",
+      "dimensions": "220 × 389 cm",
+      "city": "Madrid, Spain",
+      "gallery": "Museo del Prado",
+      "name": "The Garden of Earthly Delights",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg/400px-The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg"
+    },
+    {
+      "painterId": "Bosch",
+      "id": 29,
+      "year":"",
+      "dimensions": "",
+      "city": "",
+      "gallery": "",
+      "name": "Christ Before Pilate",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bosch_follower_Christ_Before_Pilate_%28Princeton%29.jpg/220px-Bosch_follower_Christ_Before_Pilate_%28Princeton%29.jpg"
+    },
+    {
+      "painterId": "Bosch",
+      "id": 30,
+      "year":"c.1491–1498",
+      "dimensions": "138 × 144 cm",
+      "city": "Madrid, Spain",
+      "gallery": "Museo del Prado",
+      "name": "Adoration of the Magi",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hieronymus_Bosch_-_Triptych_of_the_Adoration_of_the_Magi_-_WGA2606.jpg/250px-Hieronymus_Bosch_-_Triptych_of_the_Adoration_of_the_Magi_-_WGA2606.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 31,
+      "year":"c.1491–1498",
+      "dimensions":"138 × 144 cm",
+      "city":"Madrid, Spain",
+      "gallery":"Museo del Prado",
+      "name":"Saint Gregory's Mass",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hieronymus_Bosch_062.jpg/800px-Hieronymus_Bosch_062.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 32,
+      "year":"c.1495–1505",
+      "dimensions":"220 × 389 cm",
+      "city":"Madrid, Spain",
+      "gallery":"Museo del Prado",
+      "name":"The Creation of the World",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_The_exterior_%28shutters%29.jpg/250px-Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_The_exterior_%28shutters%29.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 33,
+      "year":"c.1495–1505",
+      "dimensions":"86 × 100 cm",
+      "city":"Venice",
+      "gallery":"Gallerie dell'Accademia",
+      "name":"Hermit Saints Triptych",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hieronymus_Bosch_-_Hermit_Saints_Triptych.jpg/1280px-Hieronymus_Bosch_-_Hermit_Saints_Triptych.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 34,
+      "year":"c.1495–1505",
+      "dimensions":"99.5 × 117.5 cm",
+      "city":"Bruges, Belgium",
+      "gallery":"Groeningemuseum",
+      "name":"The Last Judgment",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bosch_laatste_oordeel_drieluik.jpg/1024px-Bosch_laatste_oordeel_drieluik.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 35,
+      "year":"1510–1516",
+      "dimensions":"147 × 232 cm (Escorial version)\n135 x 190 cm (Prado version)",
+      "city":"Spain (version 1)\nSpain (version 2)",
+      "gallery":"El Escorial\nMuseo del Prado",
+      "name":"The Haywain",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jheronimus_Bosch_-_De_hooiwagen_%28c.1516%2C_Prado%29.jpg/1280px-Jheronimus_Bosch_-_De_hooiwagen_%28c.1516%2C_Prado%29.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 36,
+      "year":"c.1485–1495",
+      "dimensions":"77 × 59 cm",
+      "city":"Ghent, Belgium",
+      "gallery":"Museum voor Schone Kunsten",
+      "name":"St. Jerome at Prayer",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hieronymus_Bosch_012.jpg/800px-Hieronymus_Bosch_012.jpg"
+    },
+    {
+      "painterId":"Bosch",
+      "id": 37,
+      "year":"c.1490–1495",
+      "dimensions":"diameter 39 cm.",
+      "city":"Berlin, Germany",
+      "gallery":"Gemäldegalerie",
+      "name":"Outside panel of St. John the Evangelist on Patmos",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jheronimus_Bosch_Scenes_from_the_Passion_%28full%29.jpg/800px-Jheronimus_Bosch_Scenes_from_the_Passion_%28full%29.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 38,
+      "year":"c. 1500 – 1501",
+      "dimensions":"162 cm × 150 cm",
+      "city":"London",
+      "gallery":"National Gallery,",
+      "name":"The Entombment",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Entombment_Michelangelo.jpg/138px-Entombment_Michelangelo.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 39,
+      "year":"c. 1503 – 1506",
+      "dimensions":"120 cm diameter",
+      "city":"Florence",
+      "gallery":"Uffizi",
+      "name":"Doni Tondo",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Michelangelo_Buonarroti_-_Tondo_Doni_-_Google_Art_Project.jpg/1024px-Michelangelo_Buonarroti_-_Tondo_Doni_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 40,
+      "year":"1504",
+      "dimensions":"Lost",
+      "city":"Lost",
+      "gallery":"Lost",
+      "name":"The Battle of Cascina",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Battagliadicascina.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 41,
+      "year":"1508–1512",
+      "dimensions":"Fresco",
+      "city":"Rome",
+      "gallery":"Sistine Chapel",
+      "name":"Sistine Chapel ceiling",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Creaci%C3%B3n_de_Ad%C3%A1n.jpg/1024px-Creaci%C3%B3n_de_Ad%C3%A1n.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 42,
+      "year":"1534–1541",
+      "dimensions":"1,370 cm × 1,200 cm",
+      "city":" Rome",
+      "gallery":"Sistine Chapel",
+      "name":"The Last Judgment",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rome_Sistine_Chapel_01.jpg/800px-Rome_Sistine_Chapel_01.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 43,
+      "year":"c. 1530",
+      "dimensions":"Egg tempera on panel",
+      "city":"Lost",
+      "gallery":"Lost",
+      "name":"Leda and the Swan",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Leda_-_after_Michelangelo_Buonarroti.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 44,
+      "year":"c. 1542 – 1545",
+      "dimensions":"625 cm × 661 cm",
+      "city":"Rome",
+      "gallery":"Cappella Paolina, Vatican Palace",
+      "name":"The Conversion of Saul",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Conversion_of_Saint_Paul_%28Michelangelo_Buonarroti%29.jpg/1024px-Conversion_of_Saint_Paul_%28Michelangelo_Buonarroti%29.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 45,
+      "year":"c. 1546 – 1550",
+      "dimensions":"625 cm × 662 cm",
+      "city":"Rome",
+      "gallery":"Cappella Paolina, Vatican Palace",
+      "name":"The Crucifixion of St. Peter",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/1/18/Martyrdom_Michelangelo.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 46,
+      "year":"c.1533",
+      "dimensions":"39.8 × 27.8 cm",
+      "city":" London",
+      "gallery":"Courtauld Institute of Art",
+      "name":"The Dream of Human Life",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Dreamofhumanlife.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 47,
+      "year":"1533",
+      "dimensions":"31.2 × 21.5 cm",
+      "city":"London",
+      "gallery":"British Museum",
+      "name":"The Fall of Phaëthon",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Michelangelo%2C_caduta_di_fetonte.jpg/800px-Michelangelo%2C_caduta_di_fetonte.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 48,
+      "year":"c.1538–44",
+      "dimensions":"28.9 × 18.9 cm",
+      "city":"Boston",
+      "gallery":"Isabella Stewart Gardner Museum",
+      "name":"Pietà for Vittoria Colonna",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Piet%C3%A0_per_Vittoria_Colonna.jpg/800px-Piet%C3%A0_per_Vittoria_Colonna.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 49,
+      "year":"c.1541",
+      "dimensions":"36.8 × 26.8 cm",
+      "city":"London",
+      "gallery":"British Museum",
+      "name":"Crucified Christ",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Miguel_Angel_Crucifixion_drawing.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 50,
+      "year":"c.1550–1553",
+      "dimensions":"232.7 × 165.6 cm",
+      "city":"London",
+      "gallery":"British Museum",
+      "name":"Epifania",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Michelangelo_Epifania.jpg"
+    },
+    {
+      "painterId":"Michelangelo",
+      "id": 51,
+      "year":"c. 1538",
+      "dimensions":"-",
+      "city":"Nottinghamshire",
+      "gallery":"The Portland Collection",
+      "name":"Madonna del Silenzio",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/f/f4/%27Madonna_del_Silenzio%27_by_Michelangelo_Buonarroti%2C_c._1538.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 52,
+      "year":"c.1472–1476",
+      "dimensions":"98 cm × 217 cm",
+      "city":"Florence",
+      "gallery":"Uffizi",
+      "name":"The Annunciation",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg/180px-Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 53,
+      "year":"c.1472–1478",
+      "dimensions":"62 cm × 47.5 cm",
+      "city":"Munich",
+      "gallery":"Alte Pinakothek",
+      "name":"Madonna of the Carnation",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Leonardo_da_Vinci_Madonna_of_the_Carnation.jpg/800px-Leonardo_da_Vinci_Madonna_of_the_Carnation.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 105,
+      "year":"c.1478–1481",
+      "dimensions":"49.5 cm × 33 cm",
+      "city":"Saint Petersburg",
+      "gallery":"Hermitage",
+      "name":"Benois Madonna",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Madonna_benois_01.jpg/800px-Madonna_benois_01.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 54,
+      "year":"c.1478–1482",
+      "dimensions":"240 cm × 250 cm",
+      "city":"Florence",
+      "gallery":"Uffizi",
+      "name":"The Adoration of the Magi",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/1024px-Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 55,
+      "year":"c.1483–1487",
+      "dimensions":"45 cm × 32 cm",
+      "city":"Milan",
+      "gallery":"Pinacoteca Ambrosiana",
+      "name":"Portrait of a Musician",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg/800px-Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 56,
+      "year":"c.1489–1491",
+      "dimensions":"54 cm × 39 cm",
+      "city":"Kraków",
+      "gallery":"Czartoryski Museum",
+      "name":"Lady with an Ermine",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg/800px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 123,
+      "year":"c.1492–1498",
+      "dimensions":"460 cm × 880 cm",
+      "city":"Milan",
+      "gallery":"Convent of Santa Maria delle Grazie",
+      "name":"The Last Supper",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg/1024px-Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 57,
+      "year":"c.1502–1516",
+      "dimensions":"76.8 cm × 53 cm",
+      "city":"Paris",
+      "gallery":"Louvre",
+      "name":"Mona Lisa",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 58,
+      "year":"c.1506–1508",
+      "dimensions":"24.7 cm × 21 cm",
+      "city":"Parma",
+      "gallery":"Galleria Nazionale,",
+      "name":"La Scapigliata",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Leonardo_da_Vinci_-_Female_head_%28La_Scapigliata%29_-_WGA12716.jpg/800px-Leonardo_da_Vinci_-_Female_head_%28La_Scapigliata%29_-_WGA12716.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 59,
+      "year":"c.1507–1516",
+      "dimensions":"69 cm × 57 cm",
+      "city":"Paris",
+      "gallery":"Louvre",
+      "name":"Saint John the Baptist",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/800px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 60,
+      "year":"1515",
+      "dimensions":"58 cm × 45 cm",
+      "city":"Switzerland",
+      "gallery":"Private collection",
+      "name":"Mary Magdalene",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Giampetrino-Leonardo.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 61,
+      "year":"1513–1516",
+      "dimensions":"177 cm × 115 cm",
+      "city":"Paris",
+      "gallery":"Louvre",
+      "name":"Bacchus",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bacchus_%28painting%29.jpg/800px-Bacchus_%28painting%29.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 62,
+      "year":"1512",
+      "dimensions":"33.3 cm × 21.6 cm",
+      "city":"Turin",
+      "gallery":"Biblioteca Reale",
+      "name":"Portrait of a Man in Red Chalk",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg/800px-Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg"
+    },
+    {
+      "painterId":"Leonardo da Vinci",
+      "id": 63,
+      "year":"1505–1510",
+      "dimensions":"40 cm × 60 cm",
+      "city":"Vaglio Basilicata",
+      "gallery":"Museo delle Antiche Genti di Lucania",
+      "name":"Lucan portrait of Leonardo da Vinci",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/6/64/%E9%81%94%E6%96%87%E8%A5%BF%E8%87%AA%E7%95%AB%E5%83%8F.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 64,
+      "year":"1505",
+      "dimensions":"68.2 × 88.3 cm",
+      "city":"Venice",
+      "gallery":"Scuola Grande di San Rocco",
+      "name":"Christ Carrying the Cross",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiziano_o_giorgione%2C_cristo_portacroce.jpg/1024px-Tiziano_o_giorgione%2C_cristo_portacroce.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 65,
+      "year":"1508",
+      "dimensions":"45 × 55 cm",
+      "city":"New York",
+      "gallery":"Metropolitan Museum of Art",
+      "name":"Madonna and Child (Bache Madonna)",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Madonna_and_Child_MET_DT5274.jpg/1024px-Madonna_and_Child_MET_DT5274.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 66,
+      "year":"1508–1510",
+      "dimensions":"81.2 × 66.3 cm",
+      "city":"London",
+      "gallery":"National Gallery",
+      "name":"Portrait of a Man (A Man with a Quilted Sleeve)",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Titian_-_A_Man_with_a_Quilted_Sleeve_-_Google_Art_Project.jpg/800px-Titian_-_A_Man_with_a_Quilted_Sleeve_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 67,
+      "year":"1509–1510",
+      "dimensions":"117 × 97 cm",
+      "city":"London",
+      "gallery":"National Gallery",
+      "name":"Portrait of a Lady (La Schiavona)",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Titian_-_Portrait_of_a_Lady_%28%27La_Schiavona%27%29_-_Google_Art_Project.jpg/800px-Titian_-_Portrait_of_a_Lady_%28%27La_Schiavona%27%29_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 68,
+      "year":"1510",
+      "dimensions":"118 × 138 cm",
+      "city":"Paris",
+      "gallery":"Louvre",
+      "name":"Pastoral Concert",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Le_Concert_champ%C3%AAtre%2C_by_Titian%2C_from_C2RMF_retouched.jpg/1024px-Le_Concert_champ%C3%AAtre%2C_by_Titian%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 69,
+      "year":"1510",
+      "dimensions":"82 × 71 cm",
+      "city":"New York",
+      "gallery":"Frick Collection",
+      "name":"Portrait of a Man in a Red Cap",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Portrait_of_a_Man_in_a_Red_Cap_-_Titian_c._1510.jpg/800px-Portrait_of_a_Man_in_a_Red_Cap_-_Titian_c._1510.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 70,
+      "year":"1510-1511",
+      "dimensions":"218 × 149 cm",
+      "city":"Venice",
+      "gallery":"Santa Maria della Salute",
+      "name":"St. Mark Enthroned",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Titian_-_St_Mark_Enthroned_with_Saints_-_WGA22765.jpg/800px-Titian_-_St_Mark_Enthroned_with_Saints_-_WGA22765.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 71,
+      "year":"1511",
+      "dimensions":"340 × 207 cm",
+      "city":"Padua",
+      "gallery":"Scuola di Sant'Antonio",
+      "name":"The Jealous Husband",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tizian_023.jpg/800px-Tizian_023.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 72,
+      "year":"1511",
+      "dimensions":"340 × 207 cm",
+      "city":"Padua",
+      "gallery":"Scuola di Sant'Antonio",
+      "name":"Miracle of the Irascible Son",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tizian_024.jpg/800px-Tizian_024.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 73,
+      "year":"1511–1515",
+      "dimensions":"109 × 91 cm",
+      "city":"London",
+      "gallery":"National Gallery",
+      "name":"Noli me tangere",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg/800px-Titian_-_Noli_me_Tangere_-_Google_Art_Project.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 74,
+      "year":"1511–1515",
+      "dimensions":"96 × 76 cm",
+      "city":"Paris",
+      "gallery":"Louvre",
+      "name":"Woman with a Mirror",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Portrait_d%27une_Femme_%C3%A0_sa_Toilette%2C_by_Titian%2C_from_C2RMF_retouched.jpg/800px-Portrait_d%27une_Femme_%C3%A0_sa_Toilette%2C_by_Titian%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+      "painterId":"Titian",
+      "id": 75,
+      "year":"1512",
+      "dimensions":"106 × 182 cm",
+      "city":"Edinburgh",
+      "gallery":"National Gallery of Scotland",
+      "name":"The Three Ages of Man",
+      "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tizian_002.jpg/1024px-Tizian_002.jpg"
+    },
+
+    {
+      "painterId":"",
+      "id": 0,
+      "year":"",
+      "dimensions":"",
+      "city":"",
+      "gallery":"",
+      "name":"",
+      "url":""
+    }
+
+
+
+  ]
+}

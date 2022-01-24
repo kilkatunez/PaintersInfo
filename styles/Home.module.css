@@ -1,0 +1,45 @@
+.container {
+    padding: 0;
+}
+
+.main {
+    top: 20px;
+    min-height: 100vh;
+    padding: 4rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.title {
+    margin: 5vh 20% 1vh 20%;
+    line-height: 1.15;
+    font-size: calc(1em + 4vw);
+    color: #fafafa;
+    background: rgba(47, 47, 49, 0.8);
+    background-size: 100%;
+    padding: 50px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.title:hover{
+    background: rgb(245, 76, 76);
+    transition: 0.5s;
+}
+
+
+.logo {
+    height: 1em;
+    margin-left: 0.5rem;
+}
+
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+}
