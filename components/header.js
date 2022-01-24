@@ -14,7 +14,7 @@ export default function Header({painters}) {
         <Link href="/">
           <a>
           <img className={styles.img}
-               src="/logo1.png"/>
+               src="logo.jpg"/>
         </a>
         </Link>
       </span>
