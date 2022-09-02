@@ -65,7 +65,7 @@
 .paintingBlock {
     display: inline-block;
     text-align: center;
-    width: 33%;
+    width: 50%;
     min-width: min-content;
     height: 250px;
     padding: 20px;
