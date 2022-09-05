@@ -1,7 +1,6 @@
-import styles from "../styles/about.module.css"
+import styles from "../styles/about.module.css";
 
-
-const About = ({fishText}) => {
+const About = ({ fishText }) => {
   return (
     <>
       {fishText?.map((fishText, i) => {
@@ -11,12 +10,10 @@ const About = ({fishText}) => {
               <p className={styles.fishText}>{fishText.fishText}</p>
             </div>
           </div>
-        )
+        );
       })}
     </>
+  );
+};
 
-  )
-}
-
-export default About
-
+export default About;

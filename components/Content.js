@@ -1,18 +1,16 @@
-import React, {useEffect, useState} from "react";
+import React, { useEffect, useState } from "react";
 import InfiniteScroll from "react-infinite-scroll-component";
 import Link from "next/link";
 import styles from "../styles/painters.module.css";
 
-
-const Content = ({data, name, painters}) => {
+const Content = ({ data, name, painters }) => {
   const [paints, setPaints] = useState([]);
   const [hasMore, setHasMore] = useState(true);
 
   useEffect(async () => {
-    setPaints([])
-    await getMorePost()
-  }, [name])
-
+    setPaints([]);
+    await getMorePost();
+  }, [name]);
 
   const getMorePost = async () => {
     const res = await fetch(
@@ -20,7 +18,7 @@ const Content = ({data, name, painters}) => {
     );
     const newPosts = await res.json();
     setPaints((post) => [...post, ...newPosts]);
-  }
+  };
 
   return (
     <>
@@ -34,19 +32,21 @@ const Content = ({data, name, painters}) => {
         {paints.map((data) => {
           return (
             <div className={styles.paintingBlock} key={data.id}>
-              <Link href={`/painters/[name]/[id]`} as={`/painters/${name}/${data.name}`}>
+              <Link
+                href={`/painters/[name]/[id]`}
+                as={`/painters/${name}/${data.name}`}
+              >
                 <a>
-                  <img className={styles.paintingsImg} src={data.url}/>
+                  <img className={styles.paintingsImg} src={data.url} />
                   <p className={styles.paintingsText}>{data.name}</p>
                 </a>
               </Link>
             </div>
-          )
-        })
-        }
+          );
+        })}
       </InfiniteScroll>
     </>
   );
-}
+};
 
 export default Content;
