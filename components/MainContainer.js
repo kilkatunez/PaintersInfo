@@ -1,7 +1,6 @@
 import Header from "./header";
 import Head from "next/head";
 import styles from "../styles/MainContainer.module.css";
-import Navbar from "./Navbar";
 
 const MainContainer = ({ children, painters }) => {
   return (

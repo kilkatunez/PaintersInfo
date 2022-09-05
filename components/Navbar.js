@@ -4,8 +4,8 @@ import { useState } from "react";
 
 const Navbar = ({ painters }) => {
   const [searchValue, setSearchValue] = useState("");
-  const changeInputValue = (value) => {
-    setSearchValue(value);
+  const changeInputValue = (e) => {
+    setSearchValue(e);
   };
   const clearInput = () => {
     setSearchValue("");
@@ -14,15 +14,13 @@ const Navbar = ({ painters }) => {
     <div className={styles.navWrapper}>
       <div className={styles.scrollWrapper}>
         <input
-          value={searchValue}
+          value={searchValue?.target?.value}
           className={styles.input}
           placeholder="Search painter"
-          onChange={(e) => {
-            changeInputValue(e.target.value);
-          }}
+          onChange={changeInputValue}
         />
         {painters?.map((painter) => {
-          if (searchValue === "") {
+          if (!searchValue) {
             return (
               <button className={styles.painter} key={painter.id}>
                 <Link
@@ -37,8 +35,9 @@ const Navbar = ({ painters }) => {
             );
           } else {
             if (
-              painter.name.toLowerCase().indexOf(searchValue.toLowerCase()) !==
-              -1
+              painter.name
+                .toLowerCase()
+                .indexOf(searchValue?.target?.value.toLowerCase()) !== -1
             ) {
               return (
                 <button

@@ -2,7 +2,7 @@ import "../styles/globals.css";
 import App from "next/app";
 import MainContainer from "../components/MainContainer";
 import axios from "axios";
-import { BASE_URL } from "./constanst/API";
+import { BASE_URL } from "../constanst/API";
 
 function MyApp({ Component, pageProps, painters, fishText, paintings }) {
   return (

@@ -28,6 +28,7 @@ const Content = ({ data, name, painters }) => {
         hasMore={hasMore}
         loader={<h3 className={styles.loaderTitle}> Loading...</h3>}
         endMessage={<h4>Nothing more to show</h4>}
+        setHasMore={true}
       >
         {paints.map((data) => {
           return (
